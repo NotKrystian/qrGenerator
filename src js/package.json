@@ -1,0 +1,22 @@
+{
+  "name": "src-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.9.3",
+    "easyqrcodejs-nodejs": "^4.4.4",
+    "fetch": "^1.1.0",
+    "file-type": "^17.1.6",
+    "fs": "^0.0.1-security",
+    "jsdom": "^20.0.0",
+    "node-fetch": "^2.6.7",
+    "qr-code-styling-node": "^1.5.0",
+    "sharp": "^0.30.7"
+  }
+}
